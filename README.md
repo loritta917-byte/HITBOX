@@ -1,4 +1,4 @@
-# HITBOX
+# HITBOX 1
 --// ============================================================
 --// MÓDULO: Aura Divina + Pés de Vento + Ferramentas
 --// Registra no PONTO G via _G.OverdriveUI.Register
